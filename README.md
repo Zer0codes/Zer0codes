@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zer0</h1>
-<h3 align="center">A passionate Game Developer From Chicago</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0codes&label=Profile%20views&color=0e75b6&style=flat" alt="zer0codes" /> </p>
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/zerostxtic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zerostxtic" height="30" width="40" /></a>
 <a href="https://instagram.com/@offwhtg35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@offwhtg35" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/moon_light_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/moon_light_dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/moon_light_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/moon_light_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
